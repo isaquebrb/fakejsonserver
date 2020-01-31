@@ -1,5 +1,4 @@
-[
-  {
+{
     "companies": [
         {
             "id": 1,
@@ -150,5 +149,4 @@
             "status": "IN_PROGRESS"
         }
     ]
-  }
-]
+}
