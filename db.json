@@ -1,0 +1,154 @@
+[
+  {
+    "companies": [
+        {
+            "id": 1,
+            "name": "Apple",
+            "document": "12345678910111",
+            "email": null,
+            "phones": [
+                {
+                    "id": 2,
+                    "phone": "34985562233",
+                    "username": "Edward"
+                },
+                {
+                    "id": 4,
+                    "phone": "34948785511",
+                    "username": "Kile"
+                }
+            ],
+            "address": {
+                "id": 1,
+                "cep": null,
+                "street": "Street Duq",
+                "city": "DuqCity",
+                "state": null,
+                "number": 145
+            }
+        },
+        {
+            "id": 2,
+            "name": "Amazon",
+            "document": "12345678910122",
+            "email": null,
+            "phones": [
+                {
+                    "id": 1,
+                    "phone": "34997788955",
+                    "username": "Josh"
+                }
+            ],
+            "address": {
+                "id": 3,
+                "cep": null,
+                "street": "Street Cat",
+                "city": "CatCity",
+                "state": null,
+                "number": 452
+            }
+        },
+        {
+            "id": 3,
+            "name": "Sun",
+            "document": "12345678910133",
+            "email": null,
+            "phones": [
+                {
+                    "id": 3,
+                    "phone": "34954565333",
+                    "username": "Alphonse"
+                }
+            ],
+            "address": {
+                "id": 2,
+                "cep": null,
+                "street": "Street Joa",
+                "city": "JoaCity",
+                "state": null,
+                "number": 1653
+            }
+        },
+        {
+            "id": 4,
+            "name": "UnitedHealth Group",
+            "document": "12345678910144",
+            "email": null,
+            "phones": [
+                {
+                    "id": 5,
+                    "phone": "34969852234",
+                    "username": "Gon"
+                }
+            ],
+            "address": {
+                "id": 4,
+                "cep": null,
+                "street": "Street Arl",
+                "city": "ArlCity",
+                "state": null,
+                "number": 985
+            }
+        },
+        {
+            "id": 5,
+            "name": "Burger King",
+            "document": "12345678910155",
+            "email": null,
+            "phones": [
+                {
+                    "id": 6,
+                    "phone": "34923214455",
+                    "username": "Kur"
+                }
+            ],
+            "address": {
+                "id": 5,
+                "cep": null,
+                "street": "Street Gom",
+                "city": "GomCity",
+                "state": null,
+                "number": 1201
+            }
+        }
+    ],
+    "implantation":[
+        {
+            "id": 1,
+            "description": "Implantation 1",
+            "dtExpectedInitial": null,
+            "dtExpected": null,
+            "dtRealized": null,
+            "dtInitial": "2020-01-31 10:45:52",
+            "status": "IN_PROGRESS"
+        },
+        {
+            "id": 2,
+            "description": "Implantation 2",
+            "dtExpectedInitial": null,
+            "dtExpected": null,
+            "dtRealized": null,
+            "dtInitial": "2020-01-31 10:45:52",
+            "status": "IN_PROGRESS"
+        },
+        {
+            "id": 3,
+            "description": "Implantation 3",
+            "dtExpectedInitial": null,
+            "dtExpected": null,
+            "dtRealized": null,
+            "dtInitial": "2020-01-31 10:45:52",
+            "status": "IN_PROGRESS"
+        },
+        {
+            "id": 4,
+            "description": "Implantation 4",
+            "dtExpectedInitial": null,
+            "dtExpected": null,
+            "dtRealized": null,
+            "dtInitial": "2020-01-31 10:45:52",
+            "status": "IN_PROGRESS"
+        }
+    ]
+  }
+]
